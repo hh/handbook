@@ -33,7 +33,7 @@ Enspiral Foundation Limited has contracted Enspiral Ops to provide a range of ba
 
 * Serve as SaaS admin for all Foundation platforms
 * Reconcile list of users for all tools with master list of contributors
-
+.
 **Manage Membership**
 
 * Run 6-monthly member re-opt in process
